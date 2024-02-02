@@ -1,0 +1,7 @@
+C:\Users\venka\source\repos\mydockerapp\mydockerapp\obj\Release\net8.0\PubTmp\Out\mydockerapp.exe
+C:\Users\venka\source\repos\mydockerapp\mydockerapp\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\venka\source\repos\mydockerapp\mydockerapp\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\venka\source\repos\mydockerapp\mydockerapp\obj\Release\net8.0\PubTmp\Out\mydockerapp.dll
+C:\Users\venka\source\repos\mydockerapp\mydockerapp\obj\Release\net8.0\PubTmp\Out\mydockerapp.deps.json
+C:\Users\venka\source\repos\mydockerapp\mydockerapp\obj\Release\net8.0\PubTmp\Out\mydockerapp.runtimeconfig.json
+C:\Users\venka\source\repos\mydockerapp\mydockerapp\obj\Release\net8.0\PubTmp\Out\mydockerapp.pdb
