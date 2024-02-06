@@ -27,7 +27,7 @@ resource "azurerm_kubernetes_cluster" "ven_aks" {
 
   default_node_pool {
     name       = "venpool"
-    node_count = 1
+    node_count = 2
     vm_size    = "Standard_D2_v2"
   }
 
